@@ -1,5 +1,5 @@
-React 19
-Next.js 15
+React 
+Next.js 
 Appwrite
 TailwindCSS
 ShadCN
