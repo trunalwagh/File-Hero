@@ -1,6 +1,8 @@
-React 
-Next.js 
-Appwrite
-TailwindCSS
-ShadCN
-TypeScript
+## Tech Stack  
+- React  
+- Next.js  
+- Appwrite  
+- TailwindCSS  
+- ShadCN  
+- TypeScript  
+
